@@ -1,6 +1,8 @@
 # DCLA
 The dataset of DCLA (**D**omain **C**ontinual **L**earning datasets for **A**utonomous).
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hhhhh12131.DCLA)
+
 ## 🎨 Introduction
 
 The DCLA (Domain Continual Learning Datasets for Autonomous) is an intelligent transportation object detection dataset specifically designed for domain continual learning. It comprises a total of 28,892 images, including 24,689 training images and 4,203 testing images. The dataset covers five common object categories in traffic scenarios and five scene categories classified based on weather conditions.
